@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of lxz5455_podTest.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/lxz/lxz5455_podTest",
+  "homepage": "https://github.com/cute-kaolengmian/lxz5455_podTest",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "lxz": "545596604@qq.com"
   },
   "source": {
-    "git": "https://github.com/lxz/lxz5455_podTest.git",
+    "git": "https://github.com/cute-kaolengmian/lxz5455_podTest.git",
     "tag": "0.1.0"
   },
   "platforms": {
