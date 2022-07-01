@@ -1,0 +1,6 @@
+framework module lxz5455_podTest {
+  umbrella header "lxz5455_podTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
